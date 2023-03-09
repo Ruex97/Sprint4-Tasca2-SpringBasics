@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.0.3</version>
+		<version>3.0.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>cat.itacademy.barcelonactiva.rue.xavier.s04.t02.n02</groupId>
-	<artifactId>S04T02N02RueXavier</artifactId>
+	<groupId>cat.itacademy.barcelonactiva.test.sql</groupId>
+	<artifactId>test.sql</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>S04T02N02RueXavier</name>
-	<description>S04T02N02RueXavier</description>
+	<name>test.sql</name>
+	<description>test.sql</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
